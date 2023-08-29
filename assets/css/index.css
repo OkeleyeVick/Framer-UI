@@ -92,7 +92,7 @@ svg {
 	position: sticky;
 	background-color: var(--white);
 	top: 0;
-	z-index: 2;
+	z-index: 5;
 }
 #v-header-container .v-logo {
 	width: 8rem;
